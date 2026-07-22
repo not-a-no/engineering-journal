@@ -4,9 +4,6 @@ A chronological record of my software engineering journey, documenting projects,
 
 ## July 2026
 
-
-## July 2026
-
 ### Mogoo Studio
 
 **Released Mogoo Tracks v1.1 on the App Store.**
